@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/CRM/static/css/main.1315ada7.css",
-    "main.js": "/CRM/static/js/main.8546f1b0.js",
-    "static/js/453.fa890282.chunk.js": "/CRM/static/js/453.fa890282.chunk.js",
-    "static/media/pattern2.webp": "/CRM/static/media/pattern2.e8d77a674c19fc391a24.webp",
+    "main.css": "/CRM/static/css/main.faea73c3.css",
+    "main.js": "/CRM/static/js/main.8fd18e67.js",
+    "static/js/453.05f8c4a7.chunk.js": "/CRM/static/js/453.05f8c4a7.chunk.js",
+    "static/media/pattern_interno.webp": "/CRM/static/media/pattern_interno.1159f25a751652df6fec.webp",
     "static/media/primeicons.svg": "/CRM/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/fondo_login.webp": "/CRM/static/media/fondo_login.31265c0709ed6a2ab3e4.webp",
     "static/media/primeicons.eot": "/CRM/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
     "static/media/primeicons.woff": "/CRM/static/media/primeicons.8931fda1930c3bd21e96.woff",
     "static/media/primeicons.ttf": "/CRM/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/CRM/static/media/primeicons.024b32cc7bf399b1a847.woff2",
-    "static/media/pattern.webp": "/CRM/static/media/pattern.58467ab8a9a8ba8b3b01.webp",
+    "static/media/winston_red.webp": "/CRM/static/media/winston_red.2a6eb2d732f40f5320df.webp",
+    "static/media/pallmall_red.webp": "/CRM/static/media/pallmall_red.f2260a63263bd3f67461.webp",
+    "static/media/lucky_red.webp": "/CRM/static/media/lucky_red.f2c559ba4faa5607228d.webp",
+    "static/media/Malboro_red.webp": "/CRM/static/media/Malboro_red.8213ec9a17a2a964b702.webp",
+    "static/media/camel.webp": "/CRM/static/media/camel.12e963e02d97d0663086.webp",
     "index.html": "/CRM/index.html",
-    "main.1315ada7.css.map": "/CRM/static/css/main.1315ada7.css.map",
-    "main.8546f1b0.js.map": "/CRM/static/js/main.8546f1b0.js.map",
-    "453.fa890282.chunk.js.map": "/CRM/static/js/453.fa890282.chunk.js.map"
+    "main.faea73c3.css.map": "/CRM/static/css/main.faea73c3.css.map",
+    "main.8fd18e67.js.map": "/CRM/static/js/main.8fd18e67.js.map",
+    "453.05f8c4a7.chunk.js.map": "/CRM/static/js/453.05f8c4a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1315ada7.css",
-    "static/js/main.8546f1b0.js"
+    "static/css/main.faea73c3.css",
+    "static/js/main.8fd18e67.js"
   ]
 }
